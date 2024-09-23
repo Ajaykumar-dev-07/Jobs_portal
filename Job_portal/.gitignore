@@ -1,0 +1,22 @@
+# Python cache files
+*.pyc
+__pycache__/
+
+# Database files (not needed for MySQL, but if using SQLite)
+# db.sqlite3
+
+# Media uploads directory
+media/
+
+# Log files
+*.log
+
+# macOS system files
+*.DS_Store
+
+# Django secret key file (if you have one)
+# secret_key.py
+
+# Virtual environment folder (if applicable)
+venv/
+.env  # Uncomment if you have an .env file
